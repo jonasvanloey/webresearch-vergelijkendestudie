@@ -5,17 +5,17 @@
    1. [Installatie](#nstallatie)
    2. [Prijzen](#prijzen)
    3. [Documentatie](#documentatie)
-   4. [Het bouwen van de site zelf](#het-bouwen-van-de-site-zelf)
+4. [Het bouwen van de site zelf](#4-het-bouwen-van-de-site-zelf)
    5. [Thema’s]
    6. [CMS]
    7. [Plug-ins]
    8. [SEO]
-4. [Na het bouwen van de website]
+5. [Na het bouwen van de website]
    1. [Backups]
    2. [Schrijven van content door gebruikers]
    3. [Bouwen van een webshop]
-5. [Conclusie]
-6. [Referenties]
+6. [Conclusie]
+7. [Referenties]
 
 
 # 1. inleiding
@@ -48,7 +48,7 @@ Wordpress is als je niet bij wordpress host gratis of alleszins vaak toch inbegr
 De documentatie van webflow is zeer uitgebreid, er is een site www.university.webflow.com waarop je verschillende soorten tutorials kan vinden. Van elk apart deel rond het designeen van een website in webflow tot een volledige tutorial die je alle basiselementen van webflow aanleert waardoor je na het volgen van deze tutorial volledig klaar bent om zelf te beginnen met websites te maken. Mocht er toch nog iets niet duidelijk zijn kan je altijd vragen stellen of nog meer tutorials opzoeken via de zoekfunctie op deze site.
 ### Wordpress
 Wordpress heeft een zeer uitgebreide documentatie die meer naar developers is gericht waar je alle functies die je kan gebruiken voor het maken van je eigen thema of plugin terug vind. Ook maakt wordpress handig gebruik van het feit dat ze zo weid aanwezig zijn door een forum waarop mensen die met wordpress werken elkaar kunnen helpen bij het vinden van oplossingen voor de problemen. Voor elke plugin of de meeste grote plug-ins is er ook wel veel info te vinden op de site van de makers van de plugin zelf. Dit maakt het zoeken naar de juiste info op wordpress wel iets moeilijker. Voor het design zelf is er niet echt documentatie tenzij je hier ook een speciaal thema voor gebruikt dan is deze er via de site van de makers van het thema waarschijnlijk wel.
-Het bouwen van de site zelf
+# 4. Het bouwen van de site zelf
 ## Thema’s
 Zowel wordpress als webflow werken met thema’s, en bij beide heb je de opties om voor een betalend thema of een gratis thema te kiezen. Bij wordpress staat dit wel los van het CMS terwijl bij webflow het CMS vasthangt aan het thema, nog een verschil is dat je op webflow ook gewoon zelf van scratch kan beginnen en je dus niet per se gebruik moet maken van een thema. Bij wordpress kan je ook wel kiezen om zelf een ontwerp te maken maar dan moet dit via een speciaal thema.
 ## CMS
