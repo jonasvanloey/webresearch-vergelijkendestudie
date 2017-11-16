@@ -1,10 +1,10 @@
 # Inhoud
-1. [inleiding]	
-    1.[Webflow
-    2.[Wordpress]
-[sterke punten waar ze met uitpakken]
-[Webflow]
-[Wordpress]
+1. [inleiding](#1-inleiding)	
+   1. [Webflow]
+   2. [Wordpress]
+2. [sterke punten waar ze met uitpakken]
+    1. [Webflow]
+    2. [Wordpress]
 [Vergelijking]
 [Installatie]
 [Webflow]
