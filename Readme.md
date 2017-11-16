@@ -1,11 +1,11 @@
 # Inhoud
 1. [inleiding](#1-inleiding)	
 2. [sterke punten waar ze met uitpakken](#2-sterke-punten-waar-ze-met-uitpakken)
-3. [Vergelijking](#3-Vergelijking)
-   1. [Installatie](Installatie)
-   2. [Prijzen]
-   3. [Documentatie]
-   4. [Het bouwen van de site zelf]
+3. [Vergelijking](#3-vergelijking)
+   1. [Installatie](#nstallatie)
+   2. [Prijzen](#prijzen)
+   3. [Documentatie](#documentatie)
+   4. [Het bouwen van de site zelf](#het-bouwen-van-de-site-zelf)
    5. [Thema’s]
    6. [CMS]
    7. [Plug-ins]
