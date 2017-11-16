@@ -1,20 +1,10 @@
 # Inhoud
 1. [inleiding](#1-inleiding)	
-   1. [Webflow](#11-Webflow)
-   2. [Wordpress](#12-Wordpress)
-2. [sterke punten waar ze met uitpakken]
-    1. [Webflow]
-    2. [Wordpress]
+2. [sterke punten waar ze met uitpakken](#2-sterke-punten-waar-ze-met-uitpakken)
 3. [Vergelijking]
    1. [Installatie]
-      1. [Webflow]
-      2. [Wordpress]
    2. [Prijzen]
-      1. [Webflow]
-      2. [Wordpress]
    3. [Documentatie]
-      1. [Webflow]
-      2. [Wordpress]
    4. [Het bouwen van de site zelf]
    5. [Thema’s]
    6. [CMS]
@@ -31,11 +21,11 @@
 # 1. inleiding
 Deze vergelijkende studie zal gaan over 2 tools waarmee mensen met weinig tot geen kennis van het bouwen van websites toch hun eigen website kunnen bouwen. Ik ga deze vergelijken op basis van hoe je ze installeert, hoe goed de documentatie is en wat je zelf als developer kan toevoegen aan de sites, de prijzen van een pakket met eventueel hosting inbegrepen en hoe vlot het bouwen van zo een website nu echt in zijn werk gaat.
 Voor we verder gaan zal ik beide tools even kort voorstellen.
-## 1.1 Webflow
+## Webflow
 Webflow is een tool waarmee ze claimen het bouwen van een website veel simpeler te maken ze richten zich meer tot mensen  met al wel een beetje kennis over websites en maken gebruik van een grafische interface waarmee de gebruiker door simpelweg te slepen op het scherm in een paar klikken al wel een deftige site kan bouwen. Met de tools kunnen sites volledig gemaakt worden of na het ontwikkelen kan de code worden geëxporteerd en meegegeven worden aan developers.
-## 1.2 Wordpress
+## Wordpress
 Wordpres is een tool waar zowel blogs, webshops en andere websites met gemaakt worden. Het kan heel simpel aangemaakt worden door op hun site een pakket te kiezen dan een vooraf gemaakt thema  te selecteren en je bent vertrokken op bijvoorbeeld een blog te starten. Gebruikers kunnen er ook via verschillende plug-ins zelf thema’s met maken.
-# sterke punten waar ze met uitpakken
+# 2. sterke punten waar ze met uitpakken
 ## Webflow
 Bij webflow pakken ze uit met de slogan: “the power of coding without writing it”. Met deze zin doelen ze op het feit dat het via hun visual content management system heel gemakkelijk aanvoelt om toch iets of wat een website te bouwen.
 Verder vermelden ze op hun home pagina dat ze gebruik maken van interactions 2.0 waarmee je interacties en complexe animaties kan uitvoeren met het gebruik van voorgemaakte css en javascript documenten.
