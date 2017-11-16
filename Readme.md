@@ -1,7 +1,7 @@
 # Inhoud
 1. [inleiding](#1-inleiding)	
-   1. [Webflow](#1.1-Webflow)
-   2. [Wordpress](#1.2-Wordpress)
+   1. [Webflow](#11-Webflow)
+   2. [Wordpress](#12-Wordpress)
 2. [sterke punten waar ze met uitpakken]
     1. [Webflow]
     2. [Wordpress]
