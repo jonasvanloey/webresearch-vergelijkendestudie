@@ -8,7 +8,7 @@
 4. [Het bouwen van de site zelf](#4-het-bouwen-van-de-site-zelf)
    1. [Thema’s](#themas)
    2. [CMS](#cms)
-   3. [Plug-ins](#plugins)
+   3. [Plug-ins](#plug-ins)
    4. [SEO](#seo)
 5. [Na het bouwen van de website](#5-na-het-bouwen-van-de-website)
    1. [Backups](#backups)
