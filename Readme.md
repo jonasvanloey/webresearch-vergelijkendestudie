@@ -6,16 +6,16 @@
    2. [Prijzen](#prijzen)
    3. [Documentatie](#documentatie)
 4. [Het bouwen van de site zelf](#4-het-bouwen-van-de-site-zelf)
-   5. [Thema’s]
-   6. [CMS]
-   7. [Plug-ins]
-   8. [SEO]
-5. [Na het bouwen van de website]
-   1. [Backups]
-   2. [Schrijven van content door gebruikers]
-   3. [Bouwen van een webshop]
-6. [Conclusie]
-7. [Referenties]
+   1. [Thema’s](#themas)
+   2. [CMS](#cms)
+   3. [Plug-ins](#plugins)
+   4. [SEO](#seo)
+5. [Na het bouwen van de website](#5-na-het-bouwen-van-de-website)
+   1. [Backups](#backups)
+   2. [Schrijven van content door gebruikers](#schrijven-van-content-door-gebruikers)
+   3. [Bouwen van een webshop](#bouwen-van-een-webshop)
+6. [Conclusie](#6-conclusie)
+7. [Referenties](#7-referenties)
 
 
 # 1. inleiding
@@ -57,7 +57,7 @@ Zoals hierboven al gezegd hangt het CMS van webflow af van het thema/ het design
 Voor wordpress bestaan er praktisch oneindig veel plug-ins die allemaal iets anders doen voor je website, de meeste functionaliteiten van een wordpress website worden dan ook afgehandeld door een van de plug-ins die je er hebt ingestopt. Moest er toch iets niet zijn dat je nodig hebt kan je nog altijd zelf een plug-in schrijven. Bij webflow kan er ook gebruik gemaakt worden van plug-ins maar er zijn er veel minder aanwezig, ook zijn dit vooral dingen die je via de embed custom code zelf moet integreren of die via een api werkt die je kan verbinden met webflow.
 ## SEO
 Bij zowel wordpress als webflow zijn er tools die je helpen bij het in orde brengen van bepaalde zaken om beter te scoren op vlak van SEO. Bij wordpress gebeurt dit meestal in de vorm van een plugin die geïnstalleerd wordt op de site die je helpt bij het aanpassen van bepaalde zaken. Bij webflow zit er in de project settings een tabblad SEO waar je een sitemap kan genereren of er zelf één uploaden en je kan er ook een robots.txt bestand toevoegen. Je kan er ook een google site verification id aan je site toevoegen.
-# Na het bouwen van de website
+# 5. Na het bouwen van de website
 ## Backups 
 Webflow maakt het gebruiken van backups heel gemakkelijk, deze worden automatisch per 20 aanpassingen gemaakt op de site van webflow. Bij Wordpress is dit moeilijker. Hier moet je het voornamelijk zelf doen tenzij er in je hostingspakket automatische backups inbegrepen zitten.
 ## Schrijven van content door gebruikers
@@ -65,11 +65,11 @@ Bij wordpress krijgen de schrijvers van content en versimpelde versie van het ad
 ## Bouwen van een webshop
 Bij Wordpress is het  bouwen van een webshop heel gemakkelijk, meestal wordt hiervoor gebruik gemaakt van een plug-in genaamd Woo commerce waarmee je gemakkelijk pagina’s met producten kan toevoegen en ook een overzicht krijgt van wat je al hebt verkocht. Voor Woo commerce zelf bestaan er nog heel veel extensies om de webshop zo te maken als jij wil. Sommige zijn betalend andere volledig gratis. Ook bij webflow kan er gebruik gemakt worden van een soort plugin om een webshop te maken dit kan bijvoorbeeld door gebruik te maken van foxy.io. moest je dit willen implementeren dan moet je code halen van hun website en die bij custom code toevoegen aan je site. Daarna kan je beginnen met in de databank tabellen aan te maken voor je producten. Dit is wel wat werk maar betekent ook dat je je webshop volledig kan personaliseren.
 
-# Conclusie
+# 6. Conclusie
 Ik denk dat zowel wordpress als webflow zeer handige tools zijn om te gebruiken maar dat ze in verschillende context gebruikt moeten worden. Wordpress is ideaal om websites te bouwen voor mensen die totaal niet in het wereldje thuis zijn maar wel zelf een simpele website willen en hier en daar zelf iets willen veranderen zoals een foto of een tekstje of af en toe wat producten toevoegen aan hun webshop. 
 Webflow daarentegen vereist toch iets meer kennis over het maken van websites en is in mijn ogen eerder een tool voor mensen die ervaren zijn met het designen van websites om gemakkelijker werkende designs of zelfs volledige websites te maken. Bij webflow ligt de focus ook meer op het volledig zelf ontwerpen van een website en minder op het gebruik van thema’s terwijl bij Wordpress de focus net volledig ligt op het gebruik van thema’s waarbij er normaal gezien geen mogelijkheid is om volledig zelf je website te ontwerpen. 
 
-# Referenties
+# 7. Referenties
 - Webflow: www.webflow.com 
 - WordPress: www.wordpress.com 
 - Webflow university: https://university.webflow.com/  
