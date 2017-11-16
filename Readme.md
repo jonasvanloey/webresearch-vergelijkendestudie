@@ -1,39 +1,39 @@
 # Inhoud
 1. [inleiding](#1-inleiding)	
-   1. [Webflow]
-   2. [Wordpress]
+   1.1. [Webflow](#1.1-Webflow)
+   1.2. [Wordpress](#1.2-Wordpress)
 2. [sterke punten waar ze met uitpakken]
-    1. [Webflow]
-    2. [Wordpress]
-[Vergelijking]
-[Installatie]
-[Webflow]
-[Wordpress]
-[Prijzen]
-[Webflow]
-[Wordpress]
-[Documentatie]
-[Webflow]
-[Wordpress]
-[Het bouwen van de site zelf]
-[Thema’s]
-[CMS]
-[Plug-ins]
-[SEO]
-[Na het bouwen van de website]
-[Backups]
-[Schrijven van content door gebruikers]
-[Bouwen van een webshop]
-[Conclusie]
-[Referenties]
+    2.1. [Webflow]
+    2.2. [Wordpress]
+3. [Vergelijking]
+   3.1. [Installatie]
+      3.1.1. [Webflow]
+      3.1.2. [Wordpress]
+   3.2. [Prijzen]
+      3.2.1. [Webflow]
+      3.2.2. [Wordpress]
+   3.3. [Documentatie]
+      3.3.1. [Webflow]
+      3.3.2. [Wordpress]
+   3.4. [Het bouwen van de site zelf]
+   3.5. [Thema’s]
+   3.6. [CMS]
+   3.7. [Plug-ins]
+   3.8. [SEO]
+4. [Na het bouwen van de website]
+   4.1. [Backups]
+   4.2. [Schrijven van content door gebruikers]
+   4.3. [Bouwen van een webshop]
+5. [Conclusie]
+6. [Referenties]
 
 
-# inleiding
+# 1. inleiding
 Deze vergelijkende studie zal gaan over 2 tools waarmee mensen met weinig tot geen kennis van het bouwen van websites toch hun eigen website kunnen bouwen. Ik ga deze vergelijken op basis van hoe je ze installeert, hoe goed de documentatie is en wat je zelf als developer kan toevoegen aan de sites, de prijzen van een pakket met eventueel hosting inbegrepen en hoe vlot het bouwen van zo een website nu echt in zijn werk gaat.
 Voor we verder gaan zal ik beide tools even kort voorstellen.
-## Webflow
+## 1.1 Webflow
 Webflow is een tool waarmee ze claimen het bouwen van een website veel simpeler te maken ze richten zich meer tot mensen  met al wel een beetje kennis over websites en maken gebruik van een grafische interface waarmee de gebruiker door simpelweg te slepen op het scherm in een paar klikken al wel een deftige site kan bouwen. Met de tools kunnen sites volledig gemaakt worden of na het ontwikkelen kan de code worden geëxporteerd en meegegeven worden aan developers.
-## Wordpress
+## 1.2 Wordpress
 Wordpres is een tool waar zowel blogs, webshops en andere websites met gemaakt worden. Het kan heel simpel aangemaakt worden door op hun site een pakket te kiezen dan een vooraf gemaakt thema  te selecteren en je bent vertrokken op bijvoorbeeld een blog te starten. Gebruikers kunnen er ook via verschillende plug-ins zelf thema’s met maken.
 # sterke punten waar ze met uitpakken
 ## Webflow
