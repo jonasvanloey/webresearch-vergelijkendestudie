@@ -2,7 +2,7 @@
 1. [inleiding](#1-inleiding)	
 2. [sterke punten waar ze met uitpakken](#2-sterke-punten-waar-ze-met-uitpakken)
 3. [Vergelijking](#3-vergelijking)
-   1. [Installatie](#nstallatie)
+   1. [Installatie](#installatie)
    2. [Prijzen](#prijzen)
    3. [Documentatie](#documentatie)
 4. [Het bouwen van de site zelf](#4-het-bouwen-van-de-site-zelf)
