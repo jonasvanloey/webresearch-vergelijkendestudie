@@ -50,9 +50,9 @@ Ik denk dat zowel wordpress als webflow zeer handige tools zijn om te gebruiken 
 Webflow daarentegen vereist toch iets meer kennis over het maken van websites en is in mijn ogen eerder een tool voor mensen die ervaren zijn met het designen van websites om gemakkelijker werkende designs of zelfs volledige websites te maken. Bij webflow ligt de focus ook meer op het volledig zelf ontwerpen van een website en minder op het gebruik van thema’s terwijl bij Wordpress de focus net volledig ligt op het gebruik van thema’s waarbij er normaal gezien geen mogelijkheid is om volledig zelf je website te ontwerpen. 
 
 # Referenties
-Webflow: www.webflow.com 
-WordPress: www.wordpress.com 
-Webflow university: https://university.webflow.com/  
-WordPress codex: https://codex.wordpress.org/ 
-Woo commerce: www.woocommerce.com 
-Foxy: https://www.foxy.io/  
+- Webflow: www.webflow.com 
+- WordPress: www.wordpress.com 
+- Webflow university: https://university.webflow.com/  
+- WordPress codex: https://codex.wordpress.org/ 
+- Woo commerce: www.woocommerce.com 
+- Foxy: https://www.foxy.io/  
