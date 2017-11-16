@@ -1,8 +1,8 @@
 # Inhoud
 1. [inleiding](#1-inleiding)	
 2. [sterke punten waar ze met uitpakken](#2-sterke-punten-waar-ze-met-uitpakken)
-3. [Vergelijking]
-   1. [Installatie]
+3. [Vergelijking](#3-Vergelijking)
+   1. [Installatie](Installatie)
    2. [Prijzen]
    3. [Documentatie]
    4. [Het bouwen van de site zelf]
@@ -31,7 +31,7 @@ Bij webflow pakken ze uit met de slogan: “the power of coding without writing 
 Verder vermelden ze op hun home pagina dat ze gebruik maken van interactions 2.0 waarmee je interacties en complexe animaties kan uitvoeren met het gebruik van voorgemaakte css en javascript documenten.
 ## Wordpress
 Wordpress begint niet als eerste over hoe gemakkelijk hun tool is of wat je er met kan doen maar wel met het feit dat 29% van het internet gebruik maakt van wordpress. Hier maken ze duidelijk dat het dus een heel breed ondersteund product is waar je veel over kan opzoeken. Vervolgens doelen ze op 2 doelgroepen, enerzijds promoten ze het bouwen van een website en anderzijds richten ze zich specifiek tot mensen die een blog willen starten. Verder hebben ze het ook nog over het grote aantal thema’s dat voor wordpress beschikbaar zijn.
-# Vergelijking
+# 3. Vergelijking
 ## Installatie
 ### Webflow
 De installatie van webflow op de hosting is redelijk simpel. Je moet gewoon een project aanmaken (dit kan met een gratis account) en dit kan je live laten gaan wanneer je wil je hoeft het dus niet eerst op een hosting te zetten voor je het kan gebruiken. Bij het gratis pakket zal het domein van je site wel afgesloten worden door .webflow.io. Moest je zelf willen hosten dan kan dat door de gegenereerde code te exporteren. Het CMS wordt dan wel niet mee geëxporteerd. 
